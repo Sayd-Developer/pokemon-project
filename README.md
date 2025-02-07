@@ -2,11 +2,11 @@
 
 Um projeto desenvolvido com tecnologias mistas onde busca desenvolver um aplicativo mobile utilizando React Native e Expo que consuma a PokéAPI, exibindo uma lista de Pokémon com informações básicas e permitindo ao usuário dar like ou dislike em cada Pokémon
 
-# Url do Mobile e Web
+### Url do Mobile e Web
 
 web: (https://pokemon-project-4qbk.vercel.app/)
 
-# Como ver esse projeto?
+## Como ver esse projeto?
 
 1. Clone o repositório:
 
@@ -30,7 +30,7 @@ web: (https://pokemon-project-4qbk.vercel.app/)
    yarn install
    ```
 
-# Como Executar (Web)
+## Como Executar (Web)
 
 1. Para rodar o servidor de desenvolvimento localmente, execute o comando:
 
@@ -44,8 +44,7 @@ web: (https://pokemon-project-4qbk.vercel.app/)
 
 1. Para rodar o servidor de desenvolvimento localmente, execute o comando:
 
-````bash
+```bash
     npx expo
     start
-    ```
-````
+```
