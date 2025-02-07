@@ -1,4 +1,4 @@
-## Pokémon-Project
+# Pokémon-Project
 
 Um projeto desenvolvido com tecnologias mistas onde busca desenvolver um aplicativo mobile utilizando React Native e Expo que consuma a PokéAPI, exibindo uma lista de Pokémon com informações básicas e permitindo ao usuário dar like ou dislike em cada Pokémon
 
@@ -30,7 +30,7 @@ web: (https://pokemon-project-4qbk.vercel.app/)
    yarn install
    ```
 
-## Como Executar (Web)
+# Como Executar (Web)
 
 1. Para rodar o servidor de desenvolvimento localmente, execute o comando:
 
@@ -40,7 +40,7 @@ web: (https://pokemon-project-4qbk.vercel.app/)
    yarn dev
    ```
 
-## Como Executar (Web)
+## Como Executar (Mobile)
 
 1. Para rodar o servidor de desenvolvimento localmente, execute o comando:
 
