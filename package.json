@@ -1,0 +1,30 @@
+{
+  "name": "my-nextjs-ts-project",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev --turbopack",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@react-native-async-storage/async-storage": "^2.1.1",
+    "axios": "^1.7.9",
+    "expo": "^52.0.31",
+    "next": "15.1.6",
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0",
+    "react-native-paper": "^5.13.1",
+    "react-native-webview": "^13.13.2",
+    "styled-components": "^6.1.15"
+  },
+  "devDependencies": {
+    "@types/expo": "^33.0.3",
+    "@types/node": "^20",
+    "@types/react": "^19",
+    "@types/react-dom": "^19",
+    "@types/react-native": "^0.73.0",
+    "typescript": "^5"
+  }
+}
