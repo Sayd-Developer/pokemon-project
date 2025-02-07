@@ -4,16 +4,14 @@ Um projeto desenvolvido com tecnologias mistas onde busca desenvolver um aplicat
 
 # Url do Mobile e Web
 
-web: `https://pokemon-project-4qbk.vercel.app/`
-
-mobile:
+web: (https://pokemon-project-4qbk.vercel.app/)
 
 # Como ver esse projeto?
 
 1. Clone o repositório:
 
    ```bash
-   git clone https://github.com/usuario/nextjs-project.git
+   git clone + link
    ```
 
 2. Instale as dependências:
